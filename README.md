@@ -103,7 +103,7 @@ Use this tool responsibly. Only use it in unrated games, puzzles, or your own an
 
 ## 👤 Developer
 
-**MR-golem** — [dontosintme69@gmail.com](mailto:dontosintme69@gmail.com)
+**MR-golem** — [golemm@agentmail.to](mailto:golemm@agentmail.to)
 
 ## 📄 License
 
